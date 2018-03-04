@@ -1,2 +1,4 @@
 census.api <- "bf7f16125e5736a692fa2e937196e595176b58c6"
 weather.api.Key <- '7d42be187951487bbf154932181602'
+
+quandl.key <- "fgPrqeD5xaMLcRrsmFu1"
